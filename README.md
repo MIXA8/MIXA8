@@ -13,6 +13,7 @@
   <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=Linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 <h3>Technology</h3>
 <p>
