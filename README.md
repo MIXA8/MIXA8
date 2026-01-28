@@ -30,5 +30,5 @@
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/MIXA8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://t.me/Java_011" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
+<a href="https://t.me/java_webs" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
 </p>
